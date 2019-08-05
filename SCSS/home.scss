@@ -1,0 +1,14 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: blue;
+body {
+	background-color: $primary-color;
+	text-align: center;
+	h1 {
+		color: #ffffff;
+		line-height: 100px;
+	}
+	p {
+		color: #ff0000;
+		line-height: 100px;
+	}
+}
